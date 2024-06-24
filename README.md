@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenxingM&color=brightgreen)
 
-<div align="center">
-  <h2>Welcome to My GitHub Profile!</h2>
-</div>
-
 ## 🌟 About Me
 
 <p align="center">
