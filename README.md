@@ -1,4 +1,4 @@
-# Hi there, I'm Ma Chenxing 👋
+# Hi there, I'm ChenxingM 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenxingM&color=brightgreen)
 
@@ -32,14 +32,17 @@ A desktop application and AE script that converts color charts in 2D animations 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChenxingM&show_icons=true&theme=radical" alt="ChenxingM's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenxingM&theme=radical" alt="ChenxingM's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenxingM&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+
 
 ## 📫 How to reach me
 
 <div align="center">
-  <a href="https://ma-chenxing.com">![Website](https://img.shields.io/badge/Website-ma--chenxing.com-blue)</a>
-  <a href="https://twitter.com/Sengoku_Mayoi">![Twitter Follow](https://img.shields.io/twitter/follow/Sengoku_Mayoi?style=social)</a>
-  <a href="mailto:tammcx@gmail.com">![Email](https://img.shields.io/badge/Email-tammcx@gmail.com-red)</a>
+  <a href="https://ma-chenxing.com"><img src="https://img.shields.io/badge/Website-ma--chenxing.com-blue"/></a>
+  <a href="https://twitter.com/Sengoku_Mayoi"><img src="https://img.shields.io/twitter/follow/Sengoku_Mayoi?style=social"/></a>
+  <a href="mailto:tammcx@gmail.com"><img src="https://img.shields.io/badge/Email-tammcx@gmail.com-red"/></a>
 </div>
 
 ## 💼 Skills
@@ -67,12 +70,11 @@ A desktop application and AE script that converts color charts in 2D animations 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
-
 ## 🌐 Socials
 
 <div align="center">
-  <a href="https://github.com/ChenxingM?tab=followers">![GitHub followers](https://img.shields.io/github/followers/ChenxingM?style=social)</a>
-  <a href="https://twitter.com/Sengoku_Mayoi">![Twitter Follow](https://img.shields.io/twitter/follow/Sengoku_Mayoi?style=social)</a>
+  <a href="https://github.com/ChenxingM?tab=followers"><img src="https://img.shields.io/github/followers/ChenxingM?style=social"/></a>
+  <a href="https://twitter.com/Sengoku_Mayoi"><img src="https://img.shields.io/twitter/follow/Sengoku_Mayoi?style=social"/></a>
 </div>
 
 ## 🎨 Featured Projects
@@ -80,7 +82,7 @@ A desktop application and AE script that converts color charts in 2D animations 
 | Project Name | Description | Link |
 | --- | --- | --- |
 | **Auto Color Chart 2** | A tool for converting color charts in 2D animations into categorized color data. | [GitHub](https://github.com/ChenxingM/AutoColorChart) |
-| **Another Project** | Description of another project. | [GitHub](https://github.com/ChenxingM/AnotherProject) |
+| **TimeSheetReader** | AE Script that support read sxf, xdts and csv file. Auto time-remap. | [GitHub](https://github.com/ChenxingM/TimeSheetReader) |
 
 ## 📝 Latest Blog Posts
 
