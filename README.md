@@ -1,17 +1,25 @@
-# Hi there, I'm Ma Chenxing (Sengoku Mayoi) 👋
+# Hi there, I'm Ma Chenxing (千石まよひ) 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenxingM&color=brightgreen)
 
 ## 🌟 About Me
 
-<p align="center">
-  I am a 2D anime compositor and a tool developer. 
-  I am a passionate developer with a keen interest in animation and image processing. I enjoy creating tools that streamline workflows and enhance productivity.
-</p>
+I'm participating lots of anime project with the nick name "千石まよひ"!
+
+Fluent in Chinese/Japanese/English. 
+
+Starting next year, I will be a new 2D anime compositor and tools developer. Currently a fourth-year university student, graduating in 2025, majoring in Animation.
+
+I develop tools for anime production (AE scripts, desktop software, etc.) and work as a freelance anime photographer (mainly for doujin works)!
+
+I use C/C++, Python, JavaScript/TypeScript.
+
+I also enjoy photography and watching films.
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
 - 🌱 I’m currently learning advanced image processing techniques and animation scripting.
-- 💬 Ask me about anything [here](https://github.com/ChenxingM/chenxingm.github.io/issues)
+- 💬 Ask me about anything [here](https://github.com/ChenxingM/ChenxingM/issues)
+
 
 ## 🚀 Projects
 
