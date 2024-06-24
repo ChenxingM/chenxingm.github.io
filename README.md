@@ -21,9 +21,8 @@ I use C/C++, Python, JavaScript/TypeScript. 💻
 And I also enjoy photography and watching films! 🎥📷
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/qHvKrLT38DLI3MQzfK" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/take-a-break-cynicism-leftists-qHvKrLT38DLI3MQzfK">via GIPHY</a></p>
-  <iframe src="https://giphy.com/embed/0Pd8jUNH5XuFIhLk00" width="480" height="341" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0Pd8jUNH5XuFIhLk00">via GIPHY</a></p>
-
+  <img src="https://media.giphy.com/media/qHvKrLT38DLI3MQzfK/giphy.gif" alt="Anime Smile" width="300"/>
+  <img src="https://media.giphy.com/media/0Pd8jUNH5XuFIhLk00/giphy.gif" alt="Anime Coding" width="300"/>
 </div>
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
