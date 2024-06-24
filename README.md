@@ -1,7 +1,5 @@
 # Hi there, I'm Ma Chenxing 👋
-# こんにちは、バ　シンセイです！
 
-## 気軽に「千石まよひ」とお呼びください！
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenxingM&color=brightgreen)
 
